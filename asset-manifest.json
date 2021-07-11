@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ReactJSProjects/static/css/main.9f68f5cb.chunk.css",
+    "main.js": "/ReactJSProjects/static/js/main.ccfb0c8a.chunk.js",
+    "main.js.map": "/ReactJSProjects/static/js/main.ccfb0c8a.chunk.js.map",
+    "runtime-main.js": "/ReactJSProjects/static/js/runtime-main.23fe6920.js",
+    "runtime-main.js.map": "/ReactJSProjects/static/js/runtime-main.23fe6920.js.map",
+    "static/css/2.d45d6843.chunk.css": "/ReactJSProjects/static/css/2.d45d6843.chunk.css",
+    "static/js/2.22f43819.chunk.js": "/ReactJSProjects/static/js/2.22f43819.chunk.js",
+    "static/js/2.22f43819.chunk.js.map": "/ReactJSProjects/static/js/2.22f43819.chunk.js.map",
+    "index.html": "/ReactJSProjects/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/ReactJSProjects/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.9f68f5cb.chunk.css.map": "/ReactJSProjects/static/css/main.9f68f5cb.chunk.css.map",
+    "static/js/2.22f43819.chunk.js.LICENSE.txt": "/ReactJSProjects/static/js/2.22f43819.chunk.js.LICENSE.txt",
+    "static/media/auto-school.8d99da20.jpeg": "/ReactJSProjects/static/media/auto-school.8d99da20.jpeg",
+    "static/media/calculator.aa1d591b.jpeg": "/ReactJSProjects/static/media/calculator.aa1d591b.jpeg",
+    "static/media/foody-cums.63e43758.jpeg": "/ReactJSProjects/static/media/foody-cums.63e43758.jpeg",
+    "static/media/form-validation.f2c6ce50.jpeg": "/ReactJSProjects/static/media/form-validation.f2c6ce50.jpeg",
+    "static/media/music-app.26b3f268.jpeg": "/ReactJSProjects/static/media/music-app.26b3f268.jpeg",
+    "static/media/tic-tac-toe.1d49f4cc.jpeg": "/ReactJSProjects/static/media/tic-tac-toe.1d49f4cc.jpeg",
+    "static/media/todo-list.d262bbc9.jpeg": "/ReactJSProjects/static/media/todo-list.d262bbc9.jpeg",
+    "static/media/weather-reapoter.3e2db686.jpeg": "/ReactJSProjects/static/media/weather-reapoter.3e2db686.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23fe6920.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.22f43819.chunk.js",
+    "static/css/main.9f68f5cb.chunk.css",
+    "static/js/main.ccfb0c8a.chunk.js"
+  ]
+}
